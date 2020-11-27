@@ -7,7 +7,7 @@
   def name
     @name
   end
-  def bark= (bark = "woof!")
+  def bark= (bark)
     @bark = bark
   end
 end
