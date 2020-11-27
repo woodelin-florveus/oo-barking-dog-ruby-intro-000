@@ -8,6 +8,6 @@
     @name
   end
   def bark
-    @bark = "woof!"
+    puts "woof!"
   end
 end
