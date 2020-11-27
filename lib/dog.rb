@@ -9,6 +9,6 @@
   end
 
   def bark= (bark)
-    @name = bark
+    @bark = bark
   end
 end
