@@ -8,7 +8,7 @@
     @name
   end
 
-  def bark= (bark)
+  def name= (bark)
     @bark = bark
   end
 end
